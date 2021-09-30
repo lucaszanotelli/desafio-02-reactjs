@@ -1,5 +1,5 @@
 import { render } from 'react-dom'
 
-import { NApp } from './NApp'
+import { App } from './App'
 
-render(<NApp />, document.getElementById('root'))
+render(<App />, document.getElementById('root'))
